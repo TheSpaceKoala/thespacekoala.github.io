@@ -2,15 +2,8 @@
 [![The Space Koala](https://static.wixstatic.com/media/974cd0_15e238deaa9f4c2abc8bd1aba3cfd39b~mv2.png)](https://thespacekoala.com "The Space Koala")\
 Bringing the Universe closer, one picture at a time\
 ✂︎・・・・・・・・・・\
-[__SZWRC__](https://thespacekoala.com/contact "🆂🆉 SZWRC")\
-__[SZWRC&CO](https://thespacekoala.com "SZWRC&CO")__\
-Partner\
-[+41 78 749 73 97 ☎︎](tel:+41787497397 "+41 78 749 73 97 ☎︎")\
-✂︎・・・・・・・・・・\
-[℅](https://www.technopark.ch/en/contact/ "TECHNOPARK")\
-TECHNOPARKSTRASSE 1\
-8005 ZÜRICH\
-SWITZERLAND\
+[__The Space Koala__](https://thespacekoala.com/contact "The Space Koala")\
+
 ✂︎・・・・・・・・・・\
 [ABOUT](https://about.me/thespacekoala "ABOUT") thespacekoala\
 [CALENDLY](https://calendly.com/thespacekoala "CALENDLY") thespacekoala __ℹ︎__\
