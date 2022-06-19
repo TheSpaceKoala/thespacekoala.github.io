@@ -1,9 +1,9 @@
 ✂︎・・・・・・・・・・\
-[![🆂🆉](https://szwrc.co/apple-touch-icon.png)](https://szwrc.co "🆂🆉")\
-INTERTWINGULARITY\
+[![The Space Koala](https://static.wixstatic.com/media/974cd0_15e238deaa9f4c2abc8bd1aba3cfd39b~mv2.png)](https://thespacekoala.com "The Space Koala")\
+Bringing the Universe closer, one picture at a time\
 ✂︎・・・・・・・・・・\
-[__SZWRC__](https://szwrc.co/contact "🆂🆉 SZWRC")\
-__[SZWRC&CO](https://szwrc.co "SZWRC&CO")__\
+[__SZWRC__](https://thespacekoala.com/contact "🆂🆉 SZWRC")\
+__[SZWRC&CO](https://thespacekoala.com "SZWRC&CO")__\
 Partner\
 [+41 78 749 73 97 ☎︎](tel:+41787497397 "+41 78 749 73 97 ☎︎")\
 ✂︎・・・・・・・・・・\
@@ -12,42 +12,37 @@ TECHNOPARKSTRASSE 1\
 8005 ZÜRICH\
 SWITZERLAND\
 ✂︎・・・・・・・・・・\
-[ABOUT](https://about.me/szwrc "ABOUT") szwrc\
-[CALENDLY](https://calendly.com/szwrc/15min "CALENDLY") szwrc&co __ℹ︎__\
-[CLUBHOUSE](https://clubhouse.com/@szwrc0 "CLUBHOUSE") szwrc\
-[DISCORD](https://discordhub.com/profile/809384130847571998 "DISCORD") szwrc\
-[ELLO](https://ello.co/szwrc "ELLO") szwrc\
-[GITHUB](https://github.com/szwrc "GITHUB") szwrc\
-[GITLAB](https://gitlab.com/szwrc "GITLAB") szwrc\
-[GRAVATAR](https://gravatar.com/szwrc "GRAVATAR") szwrc\
-[HACKERNEWS](https://news.ycombinator.com/user?id=szwrc "HACKERNEWS") szwrc\
-[INSTAGRAM](https://instagram.com/szwrc "INSTAGRAM") szwrc\
-[KEYBASE](https://keybase.io/szwrc "KEYBASE") szwrc\
-[LINKEDIN](https://linkedin.com/in/szwrc "LINKEDIN") szwrc\
-[LINKEDIN](https://linkedin.com/company/szwrc "LINKEDIN") szwrc&co __ℹ︎__\
-[LINKTREE](https://linktr.ee/szwrc "LINKTREE") szwrc\
-[LIVEJOURNAL](https://szwrc.livejournal.com/profile "LIVEJOURNAL") szwrc\
-[MASTODON](https://mastodon.online/@szwrc "MASTODON") szwrc\
-[MEDIUM](https://szwrc.medium.com/about "MEDIUM") szwrc\
-[NETLIFY](https://app.netlify.com/sites/szwrc/deploys "NETLIFY") szwrc.co\
-[OBSERVABLE](https://observablehq.com/@szwrc "OBSERVABLE") szwrc\
-[ORCID](https://orcid.org/0000-0001-7745-0497 "ORCID") № 0000-0001-7745-0497\
-[PAYPAL](https://paypal.me/szwrc "PAYPAL") szwrc&co __ℹ︎__\
-[PINTEREST](https://pinterest.com/szwrc "PINTEREST") szwrc\
-[PLAUSIBLE](https://plausible.io/szwrc.co "PLAUSIBLE") szwrc.co\
-[POCKET](https://getpocket.com/@szwrc "POCKET") szwrc\
-[REDDIT](https://reddit.com/user/szwrc "REDDIT") szwrc\
-[SUBSTACK](https://szwrc.substack.com/ "SUBSTACK") szwrc\
-[TELEGRAM](https://t.me/szwrc "TELEGRAM") szwrc\
-[TUMBLR](https://szwrc.tumblr.com/ "TUMBLR") szwrc\
-[TWITTER](https://twitter.com/szwrc "TWITTER") szwrc\
-[WEB](https://szwrc.co "SZWRC&CO") szwrc&co __ℹ︎__\
-[WEBSITECARBON](https://websitecarbon.com/website/szwrc-co "WEBSITECARBON") szwrc.co\
+[ABOUT](https://about.me/thespacekoala "ABOUT") thespacekoala\
+[CALENDLY](https://calendly.com/thespacekoala "CALENDLY") thespacekoala __ℹ︎__\
+[CLUBHOUSE](https://www.clubhouse.com/@thespacekoala "CLUBHOUSE") thespacekoala\
+[DISCORD](https://discordhub.com/profile/842731477300936712 "DISCORD") thespacekoala\
+[ELLO](https://ello.co/thespacekoala "ELLO") thespacekoala\
+[GITHUB](https://github.com/thespacekoala "GITHUB") thespacekoala\
+[GITLAB](https://gitlab.com/TheSpaceKoala "GITLAB") thespacekoala\
+[GRAVATAR](https://en.gravatar.com/spacekoala0 "GRAVATAR") spacekoala0\
+[INSTAGRAM](https://instagram.com/the_space_koala"INSTAGRAM") the_space_koala\
+[KEYBASE](https://keybase.io/thespacekoala "KEYBASE") thespacekoala\
+[LINKEDIN](https://www.linkedin.com/company/the-space-koala/ "LINKEDIN") the-space-koala\
+[LINKTREE](https://linktr.ee/thespacekoala "LINKTREE") thespacekoala\
+[LIVEJOURNAL](https://thespacekoala.livejournal.com "LIVEJOURNAL") thespacekoala\
+[MASTODON](https://mastodon.online/web/@thespacekoala "MASTODON") thespacekoala\
+[MEDIUM](https://medium.com/@thespacekoala "MEDIUM") thespacekoala\
+[NETLIFY](https://app.netlify.com/teams/thespacekoala/ "NETLIFY") thespacekoala.com\
+[OBSERVABLE](https://observablehq.com/@thespacekoala "OBSERVABLE") thespacekoala\
+[ORCID](https://orcid.org/0000-0002-1361-2669 "ORCID") № 0000-0002-1361-2669\
+[PINTEREST](https://pinterest.com/thespacekoala "PINTEREST") thespacekoala\
+[PLAUSIBLE](https://plausible.io/thespacekoala.com "PLAUSIBLE") thespacekoala.com\
+[REDDIT](https://reddit.com/user/the_space_koala "REDDIT") the_space_koala\
+[TELEGRAM](https://t.me/thespacekoala "TELEGRAM") thespacekoala\
+[TUMBLR](https://the-space-koala.tumblr.com/ "TUMBLR") the-space-koala\
+[TWITTER](https://twitter.com/the_space_koala "TWITTER") the_space_koala\
+[WEB](https://thespacekoala.com "The Space Koala") thespacekoala.com __ℹ︎__\
+[WEBSITECARBON](https://www.websitecarbon.com/website/thespacekoala-com/ "WEBSITECARBON") thespacekoala.com\
 ✂︎・・・・・・・・・・\
-[![THESPACEKOALA](https://szwrc.co/szwrc.png)](https://szwrc.co/szwrc.vcf "THESPACEKOALA")\
+[![THESPACEKOALA](https://static.wixstatic.com/media/974cd0_15e238deaa9f4c2abc8bd1aba3cfd39b~mv2.png)](https://github.com/TheSpaceKoala/thespacekoala.github.io/blob/main/TheSpaceKoala.vcf "THESPACEKOALA")\
 ✂︎・・・・・・・・・・\
 \
-[![Netlify Status](https://api.netlify.com/api/v1/badges/a5be66d1-d2cb-4fe7-9c11-1fe6adf68469/deploy-status)](https://app.netlify.com/sites/szwrc/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/2c0c0af8-d959-4b0f-8f21-4668c31c55e6/deploy-status)](https://app.netlify.com/sites/thespacekoala/deploys)\
 
 
 
